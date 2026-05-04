@@ -18,7 +18,7 @@
 
 - 🌱 Currently learning **Full Stack Development**
 - 💻 Passionate about **Web Development & Creative Design**
-- 🎬 Also skilled in **Video Editing & Graphic Designing**
+- 🎬 Skilled in **Video Editing & Graphic Designing**
 - 🚀 Building modern websites and digital experiences
 - 📫 Reach me at: **humptysharma869281@gmail.com**
 
@@ -28,11 +28,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aman-sharma-76a42720b/" target="blank">
+<a href="https://www.linkedin.com/in/aman-sharma-76a42720b/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://instagram.com/its_anni_08" target="blank">
+<a href="https://instagram.com/its_anni_08" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
